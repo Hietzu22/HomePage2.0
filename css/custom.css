@@ -1,0 +1,29 @@
+.header {
+    padding: 50px;
+    margin: 0px;
+    text-align: center;
+    background-image: url(../media/website_background_final.jpg);
+    background-repeat: initial;
+    background-size: cover;
+    color: white;
+    max-height: 547px;
+}
+
+.footer {
+    padding: 20px;
+    margin: 0px;
+    text-align: center;
+    background-image: url(../media/website_background_final.jpg);
+    background-repeat: initial;
+    background-size: cover;
+    color: white;
+    max-height: 125px;
+}
+
+.right {
+    flex: 75%;
+}
+
+.left {
+    flex: 25%;
+}
