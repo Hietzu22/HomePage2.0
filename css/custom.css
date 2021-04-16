@@ -6,7 +6,7 @@
     background-repeat: initial;
     background-size: cover;
     color: white;
-    max-height: 547px;
+    max-height: 550px;
 }
 
 .footer {
@@ -20,10 +20,13 @@
     max-height: 125px;
 }
 
-.right {
-    flex: 75%;
+.projectCardPics {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
 }
 
-.left {
-    flex: 25%;
+.btn-margin {
+    margin: 20px;
 }

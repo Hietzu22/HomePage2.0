@@ -8,7 +8,7 @@
     </div>
 
     <div class="row">
-        <div class="left">
+        <div class="col-md-3">
             <div class="jumbotron">
                 <h1 class="display-3">Minun setup</h1>
                 <h6>Prosessori: AMD Ryzen 7 2700</h6>
@@ -31,17 +31,19 @@
             </div>
         </div>
 
-        <div class="right">
+        <div class="col-md-9">
             <div class="jumbotron">
                 <h1 class="display-3">Tietoa minusta</h1>
-                <p class="lead">Moro! Minun nimeni on Hietzu ja minä opiskelen datanomiksi esedulla. Valitsin juuri tämän alan, koska olen ollut lapsesta asti kiinnostunut siitä, miten erilaiset pelit ja sovellukset toimivat. Vapaa-ajalla minä pelailen pelejä ja välillä striimaan sekä teen videoita.</p>
+                <p class="lead">Moro! Minun nimeni on Hietzu ja minä opiskelen datanomiksi esedulla. Valitsin juuri tämän alan, koska olen ollut lapsesta asti kiinnostunut siitä, miten erilaiset pelit ja sovellukset toimivat.</p>
                 <hr class="my-4">
                 <h2>Harrastukset</h2>
                 <hr class="my-4">
                 <h3>Pelaaminen</h3>
-                <h5>Mä pelaan suurimman osan mun vapaa-ajasta, koska se on mistä itse pidän. Haluaisin myös joskus pelata ammattilaisjoukkueessa.</h5>
+                <h5>Minä pelaan suurimman osan vapaa-ajastani, koska se on mistä itse pidän. Haluaisin myös joskus pelata ammattilaisjoukkueessa.</h5>
+                <h3>Maastopyöräily</h3>
+                <h5>Kun pyöräilen, suuri todennäköisyys on että ajan maastossa. Se on itselle rauhoittavaa ja haastavaa yhtä aikaa.</h5>
                 <h3>Striimaaminen</h3>
-                <h5>Mä striimaan sen takia, koska haluan viihdyttää ihmisiä. Pidän striimaamisessa parhaana puolena ihmisten ja chatin kanssa keskustelemisesta erilaisista asioista.</h5>
+                <h5>Minä striimaan sen takia, koska haluan viihdyttää ihmisiä. Pidän striimaamisessa parhaana puolena ihmisten ja chatin kanssa keskustelemisesta erilaisista asioista.</h5>
                 <h3>Videoiden tekeminen</h3>
                 <h5>Videoiden tekeminen on omasta mielestä todella mukavaa. Paras osa videoista on julkaisun jälkeen positiivisten kommenttien lukeminen.</h5>
             </div>
