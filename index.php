@@ -51,5 +51,3 @@
     </div>
 
 <?php include_once 'layout/bot.inc.php'; ?>
-
-<!-- Fix window size bug -->
