@@ -82,7 +82,7 @@
                 <div class="card-header">Galleria</div>
                     <div class="card-body">
                         <h4 class="card-title">Koodikielet: PHP, XML, CSS</h4>
-                        <p class="card-text">Galleria-sovellus, jossa oon salasanalla suojattu ylläpitäjänäkymä</p>
+                        <p class="card-text">Galleria-sovellus, jossa on salasanalla suojattu ylläpitäjänäkymä</p>
                         <img class="projectCardPics" src="media/GalleriaPic.png" alt="GalleriaPic">
                         <a class="btn btn-primary btn-lg btn-margin" href="http://it.esedu.fi/~hietanen.veeti/Galleria/Lataa.php" role="button">Projektiin</a>
                     </div>

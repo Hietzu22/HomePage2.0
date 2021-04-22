@@ -22,7 +22,7 @@
                 <h6>Näyttö 1: VG271P 144hz</h6>
                 <h6>Näyttö 2: HP 27W 60hz</h6>
                 <hr class="my-4">
-                <h6>Hiiri: G Pro Wireless</h6>
+                <h6>Hiiri: HyperX Pulsefire FPS</h6>
                 <h6>Näppäimistö: HyperX Alloy FPS (Cherry MX Red)</h6>
                 <h6>Hiirimatto: Logitech G640</h6>
                 <h6>Kuulokkeet: HyperX Cloud 2</h6>
