@@ -48,7 +48,7 @@
                         <h4 class="card-title">Koodikielet: Html, CSS, JavaScript</h4>
                         <p class="card-text">Yksinkertainen rekisteröitymislomake validoinnilla</p>
                         <img class="projectCardPics" src="media/ValidointiPic.png" alt="ValidointiPic">
-                        <a class="btn btn-primary btn-lg btn-margin" href="#" role="button">Projektiin</a>
+                        <a class="btn btn-primary btn-lg btn-margin" href="http://it.esedu.fi/~hietanen.veeti/Lomakkeen-Validointi/" role="button">Projektiin</a>
                     </div>
                 </div>
             </div>
@@ -109,6 +109,17 @@
                         <p class="card-text">Äänestyssovellus käyttäjäsysteemillä, tietokannalla ja tarvittavilla estoilla.</p>
                         <img class="projectCardPics" src="media/VotingPic.png" alt="VotingPic">
                         <a class="btn btn-primary btn-lg btn-margin" href="http://it.esedu.fi/~hietanen.veeti/VotingApp/index.php" role="button">Projektiin</a>
+                    </div>
+                </div>
+            </div>
+        <div class="col-xl-3">
+            <div class="card text-white bg-primary mb-3" style="margin: 1rem;">
+                <div class="card-header">RNGApp</div>
+                    <div class="card-body">
+                        <h4 class="card-title">Koodikielet: HTML, JavaScript, CSS</h4>
+                        <p class="card-text">Random Number Generator on sovellus, joka valitsee numeron käyttäjän asettamien rajojen sisältä.</p>
+                        <img class="projectCardPics" src="media/RNGPic.png" alt="RNGPic">
+                        <a class="btn btn-primary btn-lg btn-margin" href="http://it.esedu.fi/~hietanen.veeti/RNGApp/index.html" role="button">Projektiin</a>
                     </div>
                 </div>
             </div>
