@@ -12,7 +12,7 @@
     <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Sosiaaliset mediat</a>
             <div class="dropdown-menu">
-                <a class="dropdown-item" href="https://twitch.tv/hietzu22">Twitch</a>
+                <a class="dropdown-item" href="https://twitch.tv/hietzu22_">Twitch</a>
                 <a class="dropdown-item" href="https://discord.gg/YUTKygFaVJ">Discord</a>
             </div>
         </li>

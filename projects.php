@@ -54,10 +54,10 @@
             </div>
         </div>
 
-        <div class="row">
-            <div class="col-xl-3">
-                <div class="card text-white bg-primary mb-3" style="margin: 1rem;">
-                    <div class="card-header">Palautelomake</div>
+    <div class="row">
+        <div class="col-xl-3">
+            <div class="card text-white bg-primary mb-3" style="margin: 1rem;">
+                <div class="card-header">Palautelomake</div>
                     <div class="card-body">
                         <h4 class="card-title">Koodikielet: PHP, XML, CSS</h4>
                         <p class="card-text">Palautelomake ja viestiseinä, jossa on salasanalla suojattu ylläpitäjänäkymä</p>
@@ -100,6 +100,7 @@
                 </div>
             </div>
         </div>
+
     <div class="row">
         <div class="col-xl-3">
             <div class="card text-white bg-primary mb-3" style="margin: 1rem;">
@@ -120,6 +121,17 @@
                         <p class="card-text">Random Number Generator on sovellus, joka valitsee numeron käyttäjän asettamien rajojen sisältä.</p>
                         <img class="projectCardPics" src="media/RNGPic.png" alt="RNGPic">
                         <a class="btn btn-primary btn-lg btn-margin" href="http://it.esedu.fi/~hietanen.veeti/RNGApp/index.html" role="button">Projektiin</a>
+                    </div>
+                </div>
+            </div>
+        <div class="col-xl-3">
+            <div class="card text-white bg-primary mb-3" style="margin: 1rem;">
+                <div class="card-header">Kauppalista</div>
+                    <div class="card-body">
+                        <h4 class="card-title">Koodikielet: PHP, JavaScript, CSS</h4>
+                        <p class="card-text">Kauppalista, johon voi laittaa tuotteita, jotka tallennetaan tietokantaan, ja niitä voi katsoa kaupassa. (Projekti on tarkoitettu vain oman perheen käyttöön)</p>
+                        <img class="projectCardPics" src="media/ShoppingPic.png" alt="ShoppingPic">
+                        <a class="btn btn-primary btn-lg btn-margin" href="https://it.esedu.fi/~hietanen.veeti/Kauppalista/index.php" role="button">Projektiin</a>
                     </div>
                 </div>
             </div>
